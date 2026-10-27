@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Heipa1
 
-<!--
-**Heipa1/Heipa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI agents · automation · on-chain data
 
-Here are some ideas to get you started:
+I use GitHub to document small experiments around AI agent workflows, automation, and on-chain data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+
+- AI agent workflows and tool use
+- Automation for research and data collection
+- On-chain data analysis
+
+## Notes
+
+- I prefer small, practical tools over big frameworks.
+- Currently learning in public and improving my open-source workflow.
